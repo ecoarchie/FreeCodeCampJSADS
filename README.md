@@ -39,3 +39,12 @@
 5. Extract Matches
 6. Find More Than the First Match
 7. Match Anything with Wildcard Period
+8. Match Single Character with Multiple Possibilities
+9. Match Letters of the Alphabet
+10. Match Numbers and Letters of the Alphabet 
+11. Match Single Characters Not Specified
+12. Match Characters that Occur One or More Times
+13. Match Characters that Occur Zero or More Times
+14. Find Characters with Lazy Matching
+15. Find One or More Criminals in a Hunt
+16. Match Beginning String Patterns
