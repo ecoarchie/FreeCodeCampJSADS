@@ -30,3 +30,12 @@
 27. Complete a Promise with resolve and reject
 28. Handle a Fulfilled Promise with then
 29. Handle a Rejected Promise with catch
+
+## Regular Expressions
+1. Using the Test Method
+2. Match literal Strings
+3. Match a Literal String with Different Possibilities
+4. Ignore Case While Matching 
+5. Extract Matches
+6. Find More Than the First Match
+7. Match Anything with Wildcard Period
