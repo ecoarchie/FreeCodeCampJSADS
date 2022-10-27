@@ -54,7 +54,14 @@
 20. Match All Numbers
 21. Match All Non-Numbers
 22. Restrict Possible Usernames
-23.
-24.
-25.
-26.
+23. Match Whitespace
+24. Match Non-Whitespace Characters 
+25. Specify Upper and Lower Number of Matches
+26. Specify Only the Lower Number of Matches
+27. Specify Exact Number of Matches
+28. Check for All or None
+29. Positive and Negative Lookahead
+30. Check For Mixed Grouping of Characters
+31. Reuse Patterns Using Capture Groups
+32. Use Capture Groups to Search and Replace
+33. Remove Whitespace from Start and End
