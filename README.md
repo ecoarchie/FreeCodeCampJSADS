@@ -48,3 +48,13 @@
 14. Find Characters with Lazy Matching
 15. Find One or More Criminals in a Hunt
 16. Match Beginning String Patterns
+17. Match Ending String Patterns
+18. Match All Letters and Numbers
+19. Match Everything But Letters and Numbers
+20. Match All Numbers
+21. Match All Non-Numbers
+22. Restrict Possible Usernames
+23.
+24.
+25.
+26.
