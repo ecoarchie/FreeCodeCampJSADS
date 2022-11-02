@@ -129,3 +129,12 @@
 24. Use Closure to Protect Properties Within an Object from Being Modified Externally
 25. Understand the Immediately Invoked Function Expression (IIFE)
 26. Use an IIFE to Create a Module
+
+## Functional Programming
+1. Learn About Functional Programming
+2. Understand Functional Programming Terminology
+3. Understand the Hazards of Using Imperative Code
+4. Avoid Mutations and Side Effects Using Functional Programming
+5. Pass Arguments to Avoid External Dependence in a Function
+6. Refactor Global Variables Out of Functions
+7. Use the map Method to Extract Data from an Array
