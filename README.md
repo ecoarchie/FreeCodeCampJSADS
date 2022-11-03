@@ -1,6 +1,7 @@
 # FreeCodeCampJSADS
 
 ## ES6
+
 1. Compare Scopes of the var and let Keywords
 2. Mutate an Array declared with const
 3. Prevent Object Mutation
@@ -23,7 +24,7 @@
 20. Create a Module Script
 21. Use export to Share a Code Block
 22. Reuse JavaScript Code Using import
-23. Use * to Import Everything from a File
+23. Use \* to Import Everything from a File
 24. Create an Export Fallback with export default
 25. Import a Default Export
 26. Create a JavaScript Promise
@@ -32,16 +33,17 @@
 29. Handle a Rejected Promise with catch
 
 ## Regular Expressions
+
 1. Using the Test Method
 2. Match literal Strings
 3. Match a Literal String with Different Possibilities
-4. Ignore Case While Matching 
+4. Ignore Case While Matching
 5. Extract Matches
 6. Find More Than the First Match
 7. Match Anything with Wildcard Period
 8. Match Single Character with Multiple Possibilities
 9. Match Letters of the Alphabet
-10. Match Numbers and Letters of the Alphabet 
+10. Match Numbers and Letters of the Alphabet
 11. Match Single Characters Not Specified
 12. Match Characters that Occur One or More Times
 13. Match Characters that Occur Zero or More Times
@@ -55,7 +57,7 @@
 21. Match All Non-Numbers
 22. Restrict Possible Usernames
 23. Match Whitespace
-24. Match Non-Whitespace Characters 
+24. Match Non-Whitespace Characters
 25. Specify Upper and Lower Number of Matches
 26. Specify Only the Lower Number of Matches
 27. Specify Exact Number of Matches
@@ -67,6 +69,7 @@
 33. Remove Whitespace from Start and End
 
 ## Debugging
+
 1. Use the JavaScript Console to Check the Value of a Variable
 2. Understanding the Differences between the freeCodeCamp and Browser Console
 3. Use typeof to Check the Type of a Variables
@@ -81,6 +84,7 @@
 12. Prevent Infinite Loops with a Valid Terminal Condition
 
 ## Basic Data Structures
+
 1. Use an Array to Store a Collection of Data
 2. Access an Array's Contents Using Bracket Notation
 3. Add Items to an Array with push() and unshift()
@@ -103,6 +107,7 @@
 20. Modify an Array Stored in an Object
 
 ## OOP
+
 1. Create a Basic JavaScript Object
 2. Use Dot Notation to Access the Properties of an Object
 3. Create a Method on an Object
@@ -131,6 +136,7 @@
 26. Use an IIFE to Create a Module
 
 ## Functional Programming
+
 1. Learn About Functional Programming
 2. Understand Functional Programming Terminology
 3. Understand the Hazards of Using Imperative Code
@@ -142,3 +148,16 @@
 9. Use the filter Method to Extract Data from an Array
 10. Implement the filter Method on a Prototype
 11. Return Part of an Array Using the slice Method
+12. Remove Elements from an Array Using slice Instead of splice
+13. Combine Two Arrays Using the concat Method
+14. Add Elements to the End of an Array Using concat Instead of push
+15. Use the reduce Method to Analyze Data
+16. Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
+17. Sort an Array Alphabetically using the sort Method
+18. Return a Sorted Array Without Changing the Original Array
+19. Split a String into an Array Using the split Method
+20. Combine an Array into a String Using the join Method
+21. Apply Functional Programming to Convert Strings to URL Slugs
+22. Use the every Method to Check that Every Element in an Array Meets a Criteria
+23. Use the some Method to Check that Any Elements in an Array Meet a Criteria
+24. Introduction to Currying and Partial Application
