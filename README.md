@@ -161,3 +161,11 @@
 22. Use the every Method to Check that Every Element in an Array Meets a Criteria
 23. Use the some Method to Check that Any Elements in an Array Meet a Criteria
 24. Introduction to Currying and Partial Application
+
+## Intermediate ALgorythm Scripting
+
+1. Sum All Numbers in a Range
+2. Diff Two Arrays
+3. Seek and Destroy
+4. Wherefore art thou
+5. Spinal Tap Case
