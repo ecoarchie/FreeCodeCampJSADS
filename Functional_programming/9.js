@@ -1,4 +1,4 @@
-// Use the map Method to Extract Data from an Array
+// Use the filter Method to Extract Data from an Array
 
 // The global variable
 const watchList = [
@@ -114,9 +114,13 @@ const watchList = [
   }
 ];
 
-const ratings = watchList.map((film) => ({
-  title: film.Title,
-  rating: film.imdbRating,
-}));
 
-console.log(JSON.stringify(ratings));
+const filteredList = watchList
+  .filter((film) => Number(film.imdbRating) >= 8)
+  .map((film) => ({
+    title: film.Title,
+    rating: film.imdbRating,
+  }));
+
+
+console.log(filteredList);

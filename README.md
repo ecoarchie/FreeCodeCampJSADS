@@ -138,3 +138,7 @@
 5. Pass Arguments to Avoid External Dependence in a Function
 6. Refactor Global Variables Out of Functions
 7. Use the map Method to Extract Data from an Array
+8. Implement map on a Prototype
+9. Use the filter Method to Extract Data from an Array
+10. Implement the filter Method on a Prototype
+11. Return Part of an Array Using the slice Method
