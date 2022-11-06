@@ -106,6 +106,25 @@
 19. Generate an Array of All Object Keys with Object.keys()
 20. Modify an Array Stored in an Object
 
+## Basic Algorythm Scripting
+
+1. Convert Celsius to Fahrenheit
+2. Reverse a String
+3. Factorialize a Number
+4. Find the Longest Word in a String
+5. Return Largest Numbers in Arrays
+6. Confirm the Ending
+7. Repeat a String Repeat a String
+8. Truncate a String
+9. Finders Keepers
+10. Boo who
+11. Title Case a Sentence
+12. Slice and Splice
+13. Falsy Bouncer
+14. Where do I Belong
+15. Mutations
+16. Chunky Monkey
+
 ## OOP
 
 1. Create a Basic JavaScript Object
@@ -173,3 +192,9 @@
 7. Search and replace
 8. DNA pairing
 9. Missing letters
+10. Sorted Union
+11. Convert HTML entities
+12. Sum All Odd Fibonacci Numbers
+13. Sum All Primes
+14. Smallest Common Multiple
+15. Drop It
