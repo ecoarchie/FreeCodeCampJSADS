@@ -198,3 +198,9 @@
 13. Sum All Primes
 14. Smallest Common Multiple
 15. Drop It
+16. Steamroller
+17. Binary agents
+18. Everything be True
+19. Arguments optional
+20. Make a Person
+21. map the Debris
