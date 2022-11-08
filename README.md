@@ -181,7 +181,7 @@
 23. Use the some Method to Check that Any Elements in an Array Meet a Criteria
 24. Introduction to Currying and Partial Application
 
-## Intermediate ALgorythm Scripting
+## Intermediate Algorithm Scripting
 
 1. Sum All Numbers in a Range
 2. Diff Two Arrays
@@ -204,3 +204,11 @@
 19. Arguments optional
 20. Make a Person
 21. map the Debris
+
+## Final Projects
+
+1. Palindrome
+2. Caesars cipher
+3. Roman numeral converter
+4. Telephone number validator
+5. Cash register
